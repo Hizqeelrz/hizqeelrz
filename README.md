@@ -7,7 +7,7 @@
 
 - 🔭  I’m currently working as a Ruby & Elixir Architect at ApptimumLabs [website]!
 - 🌱  I’m currently learning Blockchain.
-- 🥅  2022 Goals: To explore / learn more and start a new different chapter in my life. 
+- 🥅  2023 Goals: To explore / learn more and start a new different chapter in my life. 
 
 ## Books:  
 
