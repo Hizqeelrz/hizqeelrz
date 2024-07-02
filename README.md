@@ -6,8 +6,7 @@
 ## I'm a Developer !
 
 - 🔭  I’m currently working as a Ruby & Elixir Architect at ApptimumLabs [website]!
-- 🌱  I’m currently learning Blockchain.
-- 🥅  2023 Goals: To explore / learn more and start a new different chapter in my life. 
+- 🥅  2024 Goals: To explore / learn more and start a new different chapter in my life. 
 
 ## Books:  
 
@@ -17,7 +16,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="apptimumlabs.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hizqeelrz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hizqeelrz | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
