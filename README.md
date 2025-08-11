@@ -6,7 +6,7 @@
 ## I'm a Developer !
 
 - 🔭  I’m currently working as a Ruby & Elixir Architect at ApptimumLabs [website]!
-- 🥅  2024 Goals: To explore / learn more and start a new different chapter in my life. 
+- 🥅  2025 Goals: To explore / learn more and start a new different chapter in my life. 
 
 ## Books:  
 
@@ -51,3 +51,4 @@
 [website]: https://www.apptimumlabs.com/
 [linkedin]: https://www.linkedin.com/in/syedhizqeel/
 [upwork]: https://www.upwork.com/freelancers/~01833c4278e751a05c
+
