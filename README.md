@@ -6,7 +6,7 @@
 ## I'm a Developer !
 
 - 🔭  I’m currently working as a Ruby & Elixir Architect at ApptimumLabs [website]!
-- 🥅  2025 Goals: To explore / learn more and start a new different chapter in my life. 
+- 🥅  2027 Goals: To explore / learn more and start a new different chapter in my life. 
 
 ## Books:  
 
